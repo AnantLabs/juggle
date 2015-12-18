@@ -2,7 +2,7 @@ organization := "com.kifi"
 
 name := "juggle"
 
-version := "1.0.0"
+version := "1.0.2"
 
 scalaVersion := "2.11.7"
 
