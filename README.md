@@ -2,6 +2,10 @@
 
 Juggle - Concurrent Task Processing with a Single Actor.
 
+Juggle actors provide easy to implement, lightweight solutions to a wide range of concurrent task processing use cases.
+
+For more, check out [Juggle on Kifi's Engineering blog](https://medium.com/kifi-engineering/juggle-concurrent-task-processing-with-a-single-actor-ed9f33c713cf).  
+
 #Installation
 
 You can get Juggle from maven central. The artifact is `juggle_2.11` and the group id is `com.kifi`.  
